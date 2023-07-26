@@ -1,0 +1,7 @@
+The architecture of the system is as follows:
+
+- Component A: Handles data processing. It receives input data, performs various computations and transformations, and produces the desired output.
+- Component B: Manages user interface. It handles user interactions, displays information, and provides a user-friendly interface for interacting with the system.
+- Component C: Handles database operations. It is responsible for storing and retrieving data from the database, ensuring data integrity, and performing database-related tasks.
+
+Please provide detailed information for each component.

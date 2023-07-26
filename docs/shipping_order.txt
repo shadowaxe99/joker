@@ -1,0 +1,4 @@
+Product: AI Assistant
+Quantity: 1
+Shipping From: AI Factory
+Shipping To: User's Location
