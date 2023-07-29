@@ -1,0 +1,1 @@
+// Updated code to send a message to the server and stop audio if it's playing to interrupt the character.

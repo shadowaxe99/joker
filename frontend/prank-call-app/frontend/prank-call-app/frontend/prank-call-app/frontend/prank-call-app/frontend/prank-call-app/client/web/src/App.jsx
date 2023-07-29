@@ -1,0 +1,1 @@
+// Updated comment indicating that if the user interrupts the previous response, the app should be able to play audios of the new response.
