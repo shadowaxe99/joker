@@ -1,4 +1,4 @@
-# Joker
+# Batman vs Joker
 
 Batman is a vigilante crime-fighter.
 
@@ -12,17 +12,17 @@ To defeat the Joker, follow these steps:
 
 ## Usage/Running the Application
 
-To confront the Joker, execute the following command:
+To run the application, execute the following command:
 
 ```shell
-python3 joker/src/main.py
+python3 src/main.py
 ```
 
 Make sure you have Python 3 installed on your system.
 
 ## Deployment/Going Live
 
-To take down the Joker once and for all, follow these steps:
+To deploy the application and go live, follow these steps:
 
 1. Set up a server environment with Python 3 and the required dependencies.
 2. Clone the repository: `git clone https://github.com/shadowaxe99/joker.git`
