@@ -1,0 +1,16 @@
+# .gitignore
+
+# Ignore system files
+.DS_Store
+
+# Ignore Python build artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Python virtual environments
+venv/
+
+# Ignore node modules
+node_modules/
