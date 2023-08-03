@@ -1,10 +1,10 @@
 # Joker
 
-Joker is a prank call management system.
+Batman is a vigilante crime-fighter.
 
 ## Installation/Setup
 
-To install Joker, follow these steps:
+To defeat the Joker, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/shadowaxe99/joker.git`
 2. Navigate to the project directory: `cd joker`
@@ -12,7 +12,7 @@ To install Joker, follow these steps:
 
 ## Usage/Running the Application
 
-To run Joker, execute the following command:
+To confront the Joker, execute the following command:
 
 ```shell
 python3 joker/src/main.py
@@ -22,7 +22,7 @@ Make sure you have Python 3 installed on your system.
 
 ## Deployment/Going Live
 
-To deploy Joker to a live server, follow these steps:
+To take down the Joker once and for all, follow these steps:
 
 1. Set up a server environment with Python 3 and the required dependencies.
 2. Clone the repository: `git clone https://github.com/shadowaxe99/joker.git`
