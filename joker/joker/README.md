@@ -2,7 +2,7 @@
 
 Joker is a prank call management system.
 
-## Installation
+## Installation/Setup
 
 To install Joker, follow these steps:
 
@@ -10,7 +10,7 @@ To install Joker, follow these steps:
 2. Navigate to the project directory: `cd joker`
 3. Install the required dependencies: `pip install -r requirements.txt`
 
-## Usage
+## Usage/Running the Application
 
 To run Joker, execute the following command:
 
@@ -20,7 +20,7 @@ python3 joker/src/main.py
 
 Make sure you have Python 3 installed on your system.
 
-## Going Live
+## Deployment/Going Live
 
 To deploy Joker to a live server, follow these steps:
 
